@@ -1,7 +1,7 @@
-; file: Traffic_Light.s
-; class: CDA 3104, Fall 2022
-; Dev: Jeffrey Abraham          
-; description: Traffic Light System
+; File: Traffic_Light.s
+; Class: CDA 3104, Fall 2022
+; Devs: Jeffrey Abraham, Justin Rubio, Billy Jean Baptiste        
+; Description: Traffic Light System
 
 #define __SFR_OFFSET 0
 #include <avr/io.h>
